@@ -1,0 +1,183 @@
+
+.logo { 
+    height: 60px;
+    padding-right: 28px;
+}
+
+hr {
+    height: 20px;
+    margin-bottom: 8px;
+
+}
+
+.nav { 
+    background-color: #EBE5D9;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+.nav li  a { 
+    color: black;
+}
+
+.navbar form{
+
+margin-left: 520px;
+width: 35%;
+}
+
+
+
+.navbar input { 
+   background-color: white;
+   border: 2px solid #1C1919;
+   color: white;
+    border-radius: 100px;
+    width: 500%;
+  
+}
+
+.navbar .arrow { 
+    height: 26px;
+    margin-left: 200px;
+}
+
+.jumbotron {
+    height: 600px;
+    margin-top: 16px;
+    background-image: url("images/shelf-mockup-modern-empty-roomdark-orange-wall 1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jumbotron .btn { 
+    background-color: transparent;
+    border: 2px solid black;
+    width: 20%;
+    border-radius: 100px;
+    margin-left: 280px;
+    margin-top: 40px;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+
+.jumbotron img { 
+    height: 20px;
+    margin-left: 120px;
+}
+
+.jumbotron h1 { 
+    padding-top: 100px;
+    padding-left: 40px;
+    font-family: 'Aboreto', cursive;
+    font-weight: 500;
+}
+
+
+
+.jumbotron p { 
+    padding-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.select-language { 
+    height: 600px;
+    padding-top: 20px;
+    
+}
+
+.select-language h3 { 
+    padding-top: 40px;
+    padding-bottom: 16px;
+    font-kerning: normal;
+    text-align: center;
+}
+
+.select-language p { 
+    text-align: center;
+}
+
+.grid { 
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.grid img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+.quiz { 
+    height: 300px;
+    padding-left: 40px;
+    
+   background-image: url("images/quiz-back.png");
+}
+
+.quiz h3 { 
+    padding-top: 100px;
+}
+
+.quiz button { 
+    background-color: black;
+    border: black;
+    border-radius: 100px;
+    
+}
+
+.quiz img {
+    border: 2px solid purple;
+    height: 300px;
+    width: auto;
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 100px;
+   
+    
+}
+
+
+
+
+.what-for { 
+    background-color: white;
+    height: 600px;
+    padding-top: 40px;
+    
+    
+}
+
+.what-for h3 {
+    color: black;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+
+
+.rooms {
+    
+    width: 50;
+}
+
+.rooms img {
+    width: 85%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+.rooms button { 
+    margin-top: 20px;
+    background-color: transparent;
+    border-radius: 100px;
+    width: 45%;
+    padding: 8px;
+    text-align: left;
+}
+
+
+
+
+
